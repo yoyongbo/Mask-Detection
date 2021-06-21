@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{albawi2017understanding}
+{\sc Albawi, S., Mohammed, T.~A., and Al-Zawi, S.}
+\newblock Understanding of a convolutional neural network.
+\newblock In {\em 2017 International Conference on Engineering and Technology
+  (ICET)\/} (2017), Ieee, pp.~1--6.
+
+\bibitem{he2016deep}
+{\sc He, K., Zhang, X., Ren, S., and Sun, J.}
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition\/} (2016), pp.~770--778.
+
+\bibitem{pan2009survey}
+{\sc Pan, S.~J., and Yang, Q.}
+\newblock A survey on transfer learning.
+\newblock {\em IEEE Transactions on knowledge and data engineering 22}, 10
+  (2009), 1345--1359.
+
+\bibitem{simonyan2014very}
+{\sc Simonyan, K., and Zisserman, A.}
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556\/} (2014).
+
+\end{thebibliography}
